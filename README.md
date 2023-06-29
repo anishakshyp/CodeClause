@@ -1,5 +1,8 @@
-# CodeClause
+# CodeClause_DataScience
 Internship Tasks
 
-## 1. [ARTIFICIAL INTELLIGENCE](https://github.com/anishakshyp/CodeClause/blob/main/Artificial%20Intelligence)
-## 2. [DATA SCIENCE](https://github.com/anishakshyp/CodeClause/blob/main/Data%20Science)
+1. STOCK MARKET PREDICTION
+2. WINE QUALITY PREDICTION
+
+# Used the Python library opendatasets to download the kaggle dataset . Link - 
+
